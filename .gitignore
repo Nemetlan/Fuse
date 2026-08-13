@@ -1,0 +1,8 @@
+.DS_Store
+Distro/.DS_Store
+Distro/Fuse-v1.0.0-macOS-x64.dmg
+Distro/Fuse-v1.0.0-Windows-x64.exe
+Distro/Fuse.app/Contents/Info.plist
+Distro/Fuse.app/Contents/MacOS/rclone-chunk-merger
+Distro/Fuse.app/Contents/Resources/icon.icns
+fyne-cross/.DS_Store
