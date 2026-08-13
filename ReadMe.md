@@ -6,7 +6,7 @@ Fuse is a lightweight, high-performance desktop application built with Go and Fy
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/fuse/main/Screen.png" alt="Fuse Interface Screenshot" width="700">
+  <img src="https://raw.githubusercontent.com/Nemetlan/Fuse/main/Screen.png" alt="Fuse Interface Screenshot" width="700">
 </p>
 
 ## ✨ Features
