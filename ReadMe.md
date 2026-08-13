@@ -5,6 +5,7 @@
 Fuse is a lightweight, high-performance desktop application built with Go and Fyne. It automatically detects and reconstructs split or chunked files back into their original single file with a clean, modern interface.
 
 ---
+![Fuse Interface Screenshot](Screen.png)
 
 ## ✨ Features
 
